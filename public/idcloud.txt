@@ -1,0 +1,9 @@
+pass: !PGwbRtHv@**
+backup pass 2FA google : 4e02 94fe e8e7 8c6b
+
+database 
+username : xbtypqak_pusako
+pass : atpcDDye29vbr_N
+
+username : xbtypqak_webpusako
+pass : Vm4WVmgye2XD_2h
